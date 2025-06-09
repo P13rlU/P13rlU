@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I'm currently working on Azineda_Derivati<br>👯 I'm looking to collaborate on Python<br>🌱 I’m currently learning Python<br>💬🚫 Don't ask me about Oracle DB
+<h1 align="center">Hi 👋, I'm Pierluigi</h1>
+
+### 💫 About Me:
+🔭 I'm currently working on [Azienda Derivati](https://github.com/P13rlU/Aziende_Derivati)<br>👯 I'm looking to collaborate on Python<br>🌱 I’m currently learning Python<br>💬🚫 Don't ask me about Oracle DB
 
 
 ## 🌐 Socials:
@@ -19,3 +21,5 @@
 [![](https://visitcount.itsvg.in/api?id=P13rlU&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
