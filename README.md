@@ -3,7 +3,7 @@
 </p></h1>
 
 ### 💫 About Me:
-🔭 I'm currently working on [Azienda Derivati](https://github.com/P13rlU/Aziende_Derivati)<br>👯 I'm looking to collaborate on Python<br>🌱 I’m currently learning Python<br>💬🚫 Don't ask me about Oracle DB
+🔭 I'm currently working on [Job Application]([https://github.com/P13rlU/Aziende_Derivati](https://static.wikia.nocookie.net/charactercommunity/images/5/50/Chica%27s_jumpscare_gif.gif/revision/latest/scale-to-width-down/470?cb=20240622070716))<br>👯 I'm looking to collaborate on Python<br>🌱 I’m currently learning To Live<br>💬🚫 Don't ask me about Oracle DB
 
 
 ## 🌐 Socials:
