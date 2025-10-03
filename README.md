@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pierluigi</h1>
+<h1 align="center">Hi 👋, I'm <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&pause=2000&color=F72424&center=true&vCenter=true&multiline=true&width=600&lines=Pierluigi;" alt="Typing SVG" />
+</p></h1>
 
 ### 💫 About Me:
 🔭 I'm currently working on [Azienda Derivati](https://github.com/P13rlU/Aziende_Derivati)<br>👯 I'm looking to collaborate on Python<br>🌱 I’m currently learning Python<br>💬🚫 Don't ask me about Oracle DB
